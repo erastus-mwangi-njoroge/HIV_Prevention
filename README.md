@@ -60,14 +60,15 @@ hiv-analysis-project/
 ```bash
 git clone [repository-url]
 cd hiv-analysis-project
-
+```
 ### Step 2: Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### Step 3: Run the analysis
 ```bash
 python hiv_analysis.py
+```
 ### Step 4: View results
 Check the Outputs/ directory for visualizations
 
