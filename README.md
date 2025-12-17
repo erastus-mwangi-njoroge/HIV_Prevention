@@ -76,10 +76,23 @@ Percentage who know a place to get tested for HIV
 Knowledge-action gap analysis
 
 ## 📊 Key Findings
-### Progress Achieved (2003-2022)
-HIV Knowledge: Increased from 33.8% to 54.2% among females 15-24
 
-Testing Rates: Dramatic growth from 11.9% to 67.0% among females 15-24
+### 1. PROGRESS ASSESSMENT (2003-2022):
+• Female HIV knowledge: 37.5% (2003) → 51.3% (2022)
+• Male HIV knowledge: 50.5% (2003) → 52.9% (2022)
 
-Testing Access: Near-universal knowledge of testing sites (82.7% in 2014)
+### 2. GENDER DISPARITIES:
+• Persistent gender gap: Males average 7.2 percentage points higher knowledge
+
+### 3. HIGHEST RISK GROUPS (2022):
+  • No education (15-24): 13.3% HIV knowledge
+
+### 4. HIV TESTING GAPS:
+  Available years in testing data: [2003, 2009, 2014, 2022]
+  Latest year with testing data: 2022
+• Female testing rate (2022): 79.3%
+• Knowledge-Action Gap (2014): 9.0 percentage points
+
+### 5. EDUCATION DISPARITY:
+• 56.1pp gap between highest and lowest education levels (2022)
 <img width="4429" height="3547" alt="hiv_testing_analysis" src="https://github.com/user-attachments/assets/80ffc635-1545-4d08-96b9-dcae8eadd09d" />
