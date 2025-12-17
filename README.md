@@ -4,7 +4,7 @@ This analysis examines HIV prevention indicators among Kenyan adolescents (15-24
 
 ## 📊 Overview
 
-This comprehensive data analysis project examines HIV prevention indicators among Kenyan adolescents (ages 15-24) from 2003 to 2022. The analysis focuses on key metrics including comprehensive HIV knowledge, testing behaviors, and access to testing services, with particular attention to equity dimensions such as gender, education, residence, wealth, and marital status.
+This comprehensive data analysis project examines HIV prevention indicators among Kenyan adolescents (ages 15-24) from 2003 to 2022. The analysis focuses on key metrics, including comprehensive HIV knowledge, testing behaviors, and access to testing services, with particular attention to equity dimensions such as gender, education, residence, wealth, and marital status.
 
 ## 📈 Data Source
 
@@ -31,24 +31,6 @@ The dataset was extracted from **UNICEF's HIV/AIDS Statistical Tables**:
 - **Data Management**: Excel for data export
 - **Development Environment**: Jupyter Notebook
 
-## 📁 Project Structure
-hiv-analysis-project/
-│
-├── HIV_Prevention_Adolescents.xlsx # Raw data file
-├── hiv_analysis.py # Main analysis script
-├── requirements.txt # Python dependencies
-├── README.md # This file
-│
-├── Outputs/ # Generated files
-│ ├── hiv_knowledge_trends.png # Knowledge trends visualization
-│ ├── hiv_testing_analysis.png # Testing behavior visualization
-│ ├── equity_analysis.png # Disparity analysis visualization
-│ ├── correlation_analysis.png # Correlation matrix visualization
-│ └── hiv_analysis_results.xlsx # Comprehensive results in Excel
-│
-└── Insights/ # Key findings documentation
-└── executive_summary.pdf
-
 
 ## 🚀 Installation & Execution
 
@@ -71,6 +53,7 @@ python hiv_analysis.py
 ```
 ### Step 4: View results
 Check the Outputs/ directory for visualizations
+<img width="681" height="332" alt="image" src="https://github.com/user-attachments/assets/2f002755-b471-4bf7-bdfc-4cf588696760" />
 
 Open hiv_analysis_results.xlsx for detailed data tables
 
@@ -99,4 +82,4 @@ HIV Knowledge: Increased from 33.8% to 54.2% among females 15-24
 Testing Rates: Dramatic growth from 11.9% to 67.0% among females 15-24
 
 Testing Access: Near-universal knowledge of testing sites (82.7% in 2014)
-<img width="4471" height="3545" alt="hiv_knowledge_trends" src="https://github.com/user-attachments/assets/322e22d8-e0ab-4556-907e-f989729ce399" />
+<img width="4429" height="3547" alt="hiv_testing_analysis" src="https://github.com/user-attachments/assets/80ffc635-1545-4d08-96b9-dcae8eadd09d" />
